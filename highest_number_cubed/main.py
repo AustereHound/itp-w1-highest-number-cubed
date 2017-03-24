@@ -5,4 +5,4 @@ def highest_number_cubed(limit):
         if i ** 3 <= limit:
             result = i
             continue
-        return result
+    return result

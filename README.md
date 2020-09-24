@@ -16,4 +16,4 @@ setting up and coding from a github repo to cloud9.
 1
 ```
 
-[![Watch the video](https://img.youtube.com/vi/lIpYpAr8ZK8/maxresdefault.jpg)](https://youtu.be/lIpYpAr8ZK8)
+[![Watch the video](https://img.youtube.com/vi/lIpYpAr8ZK8/hqdefault.jpg)](https://youtu.be/lIpYpAr8ZK8)

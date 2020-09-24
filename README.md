@@ -15,3 +15,5 @@ setting up and coding from a github repo to cloud9.
 >>> highest_number_cubed(3)
 1
 ```
+
+[![Watch the video](https://img.youtube.com/vi/lIpYpAr8ZK8/maxresdefault.jpg)](https://youtu.be/lIpYpAr8ZK8)
